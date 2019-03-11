@@ -12,9 +12,8 @@
 
 ## 活動時間
 
-こちらのカレンダーに書いてあります
+[部のGoogleカレンダー](https://calendar.google.com/calendar/embed?src=s1250039%40u-aizu.ac.jp&ctz=Asia%2FTokyo)を参照してください！
 
-https://calendar.google.com/calendar/embed?src=s1250039%40u-aizu.ac.jp&ctz=Asia%2FTokyo
 
 ## 活動内容
 
