@@ -28,7 +28,7 @@
 
 電子工作がはじめてでも大丈夫。[講義資料が完備](https://github.com/rem-s/Training)されているので、無理なく進められます。先輩もみんな作ってるから、分からないことは好きな先輩に聞いてみよう！マイペンライ！
 
-![ライントレーサー](https://pbs.twimg.com/media/D1Ywl31U8AEs-uh.jpg)
+<img src="https://pbs.twimg.com/media/D1Ywl31U8AEs-uh.jpg" alt="ライントレーサ" width="50%">
 
 ### 趣味に応じて活動できる
 
@@ -39,7 +39,7 @@
 - ETロボコン (ソフトウェア制御)
 - マイクロマウス (ソフトからハードまで)
 
-![et](https://pbs.twimg.com/media/Dt9ybWGVAAoPzD-.jpg)
+<img src="https://pbs.twimg.com/media/Dt9ybWGVAAoPzD-.jpg" alt="ET" width="50%">
 
 ## 部の方針(一部)
 
@@ -48,7 +48,7 @@
 - 出来る限り自作 ライブラリは極力使わず、ハードは回路設計から
 - チロルチョコはいいぞ 
 
-![meeting](https://pbs.twimg.com/media/D0yj97QV4AEfrF5.jpg:large)
+<img src="https://pbs.twimg.com/media/D0yj97QV4AEfrF5.jpg:large" alt="meeting" width="50%">
 
 ## 入部したい方へ
 
@@ -56,4 +56,4 @@
 
 分からないこと、相談したいこと、おやつカルパス食べたい等あれば、[Twitter](https://twitter.com/AizuRobo)にDMやメンションをおくってください！！ツイ廃の部員がすぐに対応します(笑)
 
-![okashi](https://pbs.twimg.com/media/D0ycd1HU0AAC5uV.jpg:large)
+<img src="https://pbs.twimg.com/media/D0ycd1HU0AAC5uV.jpg:large" alt="okashi" width="50%">
