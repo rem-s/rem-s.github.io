@@ -4,7 +4,7 @@
 
 ![REMs](https://avatars2.githubusercontent.com/u/47908095?s=200&v=4)
 
-こんにちは。部長の松川です。
+こんにちは。部長のTariです。
 
 すごくメカメカしいロボットをつくっていきたいと思っています。
 
