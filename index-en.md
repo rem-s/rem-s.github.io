@@ -5,8 +5,10 @@
 ![REMs](https://avatars2.githubusercontent.com/u/47908095?s=200&v=4)
 
 こんにちは。部長のTariです。(基本的に部員はニックネームで呼びます)
+Hello, This is Tari the master of REMs.
 
 [NHKロボコン](http://www.official-robocon.com/gakusei/)に出るようなガチガチなものから、[マイクロマウス](http://www.ntf.or.jp/mouse/)に出るようなちっちゃくてかわいいものまで多種多様なロボットを造っていきます。
+We will create some robots for Micromouse, NHK-Robocon and more contests.
 
 よろしく！
 
@@ -18,6 +20,7 @@
 ## 活動時間
 
 [部のGoogleカレンダー](https://calendar.google.com/calendar/embed?src=s1250039%40u-aizu.ac.jp&ctz=Asia%2FTokyo)を参照してください！
+Please see our Google Calendar.
 
 
 ## 活動内容
