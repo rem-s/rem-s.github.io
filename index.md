@@ -61,3 +61,4 @@
 ## お問い合わせ先
 
 [お問い合わせフォームはこちら](https://forms.gle/cnHZUysgid3CgQ3G6)
+メールアドレス: s1250039@u-aizu.ac.jp
