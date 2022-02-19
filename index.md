@@ -1,3 +1,21 @@
+# 目次
+1. [サークル情報](https://rem-s.github.io#サークル情報)
+1. [入部案内](https://rem-s.github.io#REMs入部案内)
+1. [お問い合わせ](https://rem-s.github.io#お問い合わせ)
+
+# サークル情報
+
+## REMsの基本情報
+* 創立: 平成29年(2017年)11月13日
+* 部員数: 21名(増減が多いので、学期初めの人数とします。)
+* 活動場所: 厚生棟 K1
+
+## 活動時間
+
+* 日曜日 午後2時ごろから
+
+[部のGoogleカレンダー](https://calendar.google.com/calendar/embed?src=maipenrai%40u-aizu.ac.jp&ctz=Asia%2FTokyo)を参照してください！
+
 # REMs入部案内
 
 ## 部長から
@@ -10,15 +28,6 @@
 また、[ETロボコン](https://www.etrobo.jp/)のような、ハードウェアではなくアルゴリズムを考えることを重視した大会に参加したりしています。
 
 よろしく！
-
-## REMsの基本情報
-* 創立: 平成29年(2017年)11月13日
-* 部員数: 21名
-* 活動場所: 厚生棟 K1によく誰かいます。
-
-## 活動時間
-
-[部のGoogleカレンダー](https://calendar.google.com/calendar/embed?src=maipenrai%40u-aizu.ac.jp&ctz=Asia%2FTokyo)を参照してください！
 
 ## 活動内容
 
@@ -53,13 +62,15 @@
 
 ## 入部したい方へ
 
-部室にいきなりきてもらってかまいません！むしろ大歓迎です！！
+<!-- 部室にいきなりきてもらってかまいません！むしろ大歓迎です！！ -->
+
+直前でもいいので、事前にTwitterやメールなどで連絡をいただければ、部室を開けるや、日程調整をするなど、何かしら対応します！
 
 分からないこと、相談したいこと、おやつカルパス食べたい等あれば、[Twitter](https://twitter.com/AizuRobo)にDMやメンションをおくってください！！ツイ廃の部員がすぐに対応します(笑)
 
 <img src="https://pbs.twimg.com/media/D0ycd1HU0AAC5uV.jpg:large" alt="okashi" width="50%">
 
-## お問い合わせ先
+# お問い合わせ
 
 [お問い合わせフォームはこちら](https://forms.gle/cnHZUysgid3CgQ3G6)
 
