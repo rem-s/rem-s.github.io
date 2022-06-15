@@ -1,24 +1,27 @@
-# 目次
+# REMsのホームページは移転しました！
+2022年度より、REMsのホームページのアドレスは「[http://u-aizu.ac.jp/circles/rems/](http://u-aizu.ac.jp/circles/rems/)」になりました。様々な環境での閲覧に対応させるため、敢えてhttpsにはしていません。という言い訳です。大学のサーバがそういう仕様なだけです。ということで以下にある情報は2021年度以前のものです。
+
+## 目次
 1. [サークル情報](https://rem-s.github.io#サークル情報)
 1. [入部案内](https://rem-s.github.io#REMs入部案内)
 1. [お問い合わせ](https://rem-s.github.io#お問い合わせ)
 
-# サークル情報
+## サークル情報
 
-## REMsの基本情報
+### REMsの基本情報
 * 創立: 平成29年(2017年)11月13日
-* 部員数: 21名(増減が多いので、学期初めの人数とします。)
+* 部員数: 21名(2021年4学期現在)
 * 活動場所: 厚生棟 K1
 
-## 活動時間
+### 活動時間
 
 * 日曜日 午後2時ごろから
 
 [部のGoogleカレンダー](https://calendar.google.com/calendar/embed?src=maipenrai%40u-aizu.ac.jp&ctz=Asia%2FTokyo)を参照してください！
 
-# REMs入部案内
+## REMs入部案内
 
-## 部長から
+### 部長から
 
 ![REMs](https://avatars2.githubusercontent.com/u/47908095?s=200&v=4)
 
@@ -29,9 +32,9 @@
 
 よろしく！
 
-## 活動内容
+### 活動内容
 
-### 最初にすること
+#### 最初にすること
 
 入部された方はまずC言語を学んでもらい、基礎的なハードウェア・ソフトウェアの技術を身につけてもらうため、「自分だけのライントレーサー」を作ってもらいます。
 
@@ -39,7 +42,7 @@
 
 <img src="https://pbs.twimg.com/media/D1Ywl31U8AEs-uh.jpg" alt="line_tracer" width="50%">
 
-### 趣味に応じて活動できる
+#### 趣味に応じて活動できる
 
 ライントレーサーが完成したら、自分の趣味に応じてプロジェクトを選択し、チームで活動していきます。
 
@@ -51,7 +54,7 @@
 
 <img src="https://pbs.twimg.com/media/Dt9ybWGVAAoPzD-.jpg" alt="ET" width="50%">
 
-## 部の方針(一部)
+### 部の方針(一部)
 
 - Hello World!こそ最大の進捗
 - やりたい事はとりあえず挑戦してみる
@@ -60,7 +63,7 @@
 
 <img src="https://pbs.twimg.com/media/D0yj97QV4AEfrF5.jpg:large" alt="meeting" width="50%">
 
-## 入部したい方へ
+### 入部したい方へ
 
 <!-- 部室にいきなりきてもらってかまいません！むしろ大歓迎です！！ -->
 
@@ -70,7 +73,7 @@
 
 <img src="https://pbs.twimg.com/media/D0ycd1HU0AAC5uV.jpg:large" alt="okashi" width="50%">
 
-# お問い合わせ
+## お問い合わせ
 
 [お問い合わせフォームはこちら](https://forms.gle/cnHZUysgid3CgQ3G6)
 
