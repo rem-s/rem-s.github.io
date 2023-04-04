@@ -2,7 +2,7 @@
 ## 目次
 1. [サークル情報](https://rem-s.github.io#サークル情報)
 1. [活動内容](https://rem-s.github.io#REMs活動内容)
-2. [4月の予定](https://rem-s.github.io#月の予定)
+2. [4月の予定](https://rem-s.github.io#4月の予定)
 3. [入部したい方へ](https://rem-s.github.io#入部したい方へ)
 
 ## サークル情報
