@@ -1,0 +1,439 @@
+/*
+rems.css
+by s1250039
+
+位置指定パラメータの個数の違いによる適用範囲
+
+1: 全体
+2: 上下 左右
+3: 上 左右 下
+4: 上 右 下 左 (上から時計回り)
+
+margin/border/paddingの関係
+
+  外側がmargin
+┌────────┐ ←border
+│ 内側がpadding  │
+└────────┘
+
+記述の順番
+
+display-style
+位置 top right bottom left
+大きさ height width
+margin
+border
+padding
+background
+文字寄せ
+文字の大きさ size height
+書体
+文字色
+禁則処理
+...
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	background-color: #FFEECC;
+	border-style: none;
+	padding: 0;
+	font-size: 0;
+	font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+img {
+	width: 60%;
+	border-radius: 5vw;
+}
+
+video {
+	/*width: 60%;
+    border-radius: 1vw;*/
+}
+
+table {
+	margin: auto;
+	font-size: large;
+}
+
+th {
+	padding: 5px 15px;
+}
+
+td {
+	padding: 5px 15px;
+}
+
+p {
+	hanging-punctuation: allow-end;
+}
+
+/*上のバー*/
+
+#top {
+	top: 0%;
+	left: 0%;
+	height: 3vw;
+	width: 100vw;
+	background-color: #111111;
+	padding: 1vw 0;
+	line-height: 3vw;
+	color: #FFFFFF;
+}
+
+#title-top {
+	display: inline-block;
+	top: 0;
+	left: 0%;
+	height: 100%;
+	width: 85%;
+	margin-left: 1vw;
+	justify-content: center;
+	align-items: center;
+	text-align: left;
+	font-size: 3vw;
+	font-weight: bold;
+}
+
+#link-top {
+	/*トップページに飛ぶリンクなので、トップページには置かないこと*/
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#subtitle-top {
+	display: inline-block;
+	position: absolute;
+	margin-top: 1vw;
+	margin-right: 1vw;
+	top: 0;
+	right: 0;
+	height: 5vw;
+	justify-content: center;
+	align-items: center;
+	text-align: right;
+	font-size: 2vw;
+	font-weight: lighter;
+}
+
+#logo-top-uoa {
+	height: 5vw;
+	width: auto;
+	border: none;
+	border-radius: 0;
+}
+
+#main {
+	margin: 0%;
+	padding: 0%;
+	min-height: 60vh;
+}
+
+.menu {
+	height: 4vw;
+	width: 100%;
+	background: #000033;
+	text-align: center;
+	font-size: 2vw;
+}
+
+.content-menu {
+	display: inline;
+	margin: 2vw;
+	width: 20%;
+}
+
+.content-menu a {
+	text-decoration: none;
+	color: #DDDDFF;
+}
+
+/*トップページのビデオ*/
+
+#wrap-face {
+	position: relative;
+	margin: 0;
+	height: calc(100vh - 5vw - 1vw);
+	width: 100%;
+	overflow: hidden;
+	align-items: center;
+}
+
+#video-face {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	min-height: 100%;
+	min-width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+#filter-face {
+	position: absolute;
+	min-height: 100%;
+	min-width: 100%;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+#text-face {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 28pt;
+	color: #FFFFFF;
+}
+
+#text-face a {
+	text-decoration: none;
+	color: #FFFFFF;
+	scroll-behavior: smooth;
+}
+
+/*本文*/
+
+.spacer {
+	height: 1vw;
+}
+
+.title-section {
+	position: relative;
+	left: 20%;
+	width: 60%;
+	margin-top: 5vh;
+	border-bottom: 1px dotted #000011;
+	text-align: center;
+	font-size: 32pt;
+	font-weight: bold;
+	color: #003300;
+
+}
+
+.subtitle-section {
+	position: relative;
+	left: 25%;
+	margin-top: 5vh;
+	width: 50%;
+	border-bottom: 1px dotted #000011;
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+	color: #440000;
+}
+
+.content-main {
+	position: relative;
+	left: 10%;
+	margin-top: 5vh;
+	width: 80%;
+	font-size: 14pt;
+	font-weight: normal;
+	line-height: 20pt;
+	letter-spacing: 0%;
+	color: #000044;
+}
+
+.center {
+	text-align: center;
+}
+
+.wrap-media {
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	text-align: center;
+}
+
+.imcont>p {
+	font-size: 10pt;
+}
+
+.red {
+	color: #FF2200;
+}
+
+/*フッタ*/
+
+.footer {
+	position: relative;
+	left: 0%;
+	margin-top: 5vh;
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+	width: 100%;
+	background: #000044;
+	font-size: 14pt;
+	font-weight: normal;
+	line-height: 20pt;
+	letter-spacing: 0%;
+	color: #CCCCFF;
+}
+
+#large-footer {
+	line-height: 30pt;
+	font-size: 25pt;
+}
+
+/*イベントページのみ*/
+
+tr.endyear {
+	padding-bottom: 15px;
+}
+
+/*QeAページ*/
+
+div.dialogue-qea {
+	margin: 20px;
+	border: #000044;
+	border-style: dotted;
+	border-width: 5px;
+	border-radius: 10px;
+	background: #FFEEEE;
+}
+
+div.dialogue-qea>p.question {
+	margin: 20px;
+	text-align: left;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #003300;
+}
+
+div.dialogue-qea>p.answer {
+	margin: 10px 10px 10px 30px;
+	text-align: left;
+	font-size: x-large;
+	color: #330000;
+}
+
+@media only screen and (max-device-width: 750px) {
+	body {
+		padding: 0;
+		width: 100%;
+	}
+
+	img {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	#main {
+		padding: 0;
+		margin: 0;
+		width: 100%;
+	}
+
+	#top {
+		height: 12vh;
+		width: 100vw;
+		padding: 0%;
+		margin: 0%;
+	}
+
+	#title-top {
+		height: 4vh;
+		width: 100%;
+		margin: 0;
+		padding: 1vh 0;
+		line-height: 3vh;
+		font-size: 3vh;
+		text-align: center;
+	}
+
+	#subtitle-top {
+		position: relative;
+		height: 3.5vh;
+		width: 100%;
+		padding: 1vh 0;
+		text-align: center;
+		font-size: 2vh;
+		font-weight: normal;
+	}
+
+	#wrap-face {
+		position: relative;
+		margin: 0;
+		height: calc(100vh - 12vh - 40vw);
+		width: 100%;
+		overflow: hidden;
+		align-items: center;
+	}
+
+	#text-face {
+		font-size: 7vw;
+	}
+
+	.center iframe {
+		width: 90%;
+	}
+
+	.menu {
+		margin: 0;
+		padding: 0;
+		height: 40vw;
+		text-align: center;
+	}
+
+	.content-menu {
+		display: block;
+		margin: 0;
+		padding-top: 3vw;
+		width: 100vw;
+		font-size: 3vh;
+	}
+
+	.title-section {
+		margin-top: 7vh;
+		padding-bottom: 1vh;
+		text-align: center;
+		line-height: 8vw;
+		font-size: 8vw;
+	}
+
+	.subtitle-section {
+		margin-top: 6vh;
+		padding-bottom: 1vh;
+		text-align: center;
+		line-height: 5vw;
+		font-size: 5vw;
+	}
+
+	.content-main {
+		left: 5vw;
+		width: 90vw;
+		margin-top: 3vh;
+		border-style: none;
+		border-radius: 0;
+		line-height: 6vw;
+		font-size: 4.5vw;
+	}
+
+	.imcont>p {
+		text-align: center;
+		font-size: 2vw;
+	}
+
+	#large-footer {
+		line-height: 15vw;
+		font-size: 10vw;
+	}
+}
