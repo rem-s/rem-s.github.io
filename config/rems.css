@@ -257,6 +257,10 @@ p {
 	text-align: center;
 }
 
+.content-main-ul {
+	padding-left: 20pt;
+}
+
 .wrap-media {
 	margin-top: 12pt;
 	margin-bottom: 12pt;
